@@ -2,15 +2,28 @@ from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 import numpy as np
 import heapq
-from operator import itemgetter
+import networkx as nx
 
 max_ref = 10
 num_iter = 5
 
+
 def find_top_authors(es_address, author_num):
     papers = retrieve_papers(es_address)
     authors, adj_matrix = build_adjacency_matrix(papers)
-    h = hits(adj_matrix, author_num, authors)
+    hits(adj_matrix, author_num, authors)
+    hits_validate(adj_matrix, author_num, authors)
+
+
+
+def hits_validate(adj_matrix, author_num, authors):
+    G = nx.Graph(adj_matrix)
+    h, a = nx.hits(G)
+    best_authors = heapq.nlargest(author_num, zip(a, authors))
+    print(best_authors)
+    for (score, a) in best_authors:
+        print(a, score)
+
 
 
 def hits(adj_matrix, author_num, authors):
@@ -18,11 +31,8 @@ def hits(adj_matrix, author_num, authors):
     h = np.ones(n) / n
     a = np.ones(n) / n
     for iter in range(num_iter):
-        for i in range(n):
-            h_indices = np.nonzero(adj_matrix[i])
-            a_indices = np.nonzero(adj_matrix[:, i])
-            h[i] = np.sum(a[h_indices])
-            a[i] = np.sum(h[a_indices])
+        a = np.dot(adj_matrix.T, h)
+        h = np.dot(adj_matrix.T, a)
         h = h / np.linalg.norm(h)
         a = a / np.linalg.norm(a)
     best_authors = heapq.nlargest(author_num, zip(a, authors))
@@ -56,7 +66,7 @@ def build_adjacency_matrix(papers):
     authors = []
     for i in range(n):
         authors.extend(papers[i]['authors'])
-    authors = list(set(authors))
+    authors = sorted(list(set(authors)))
     m = len(authors)
     adj_matrix = np.zeros((m, m))
 
@@ -72,9 +82,7 @@ def build_adjacency_matrix(papers):
         authors_d = list(set(authors_d))
         for a in authors_s:
             for b in authors_d:
-                print(a, b)
                 adj_matrix[authors.index(a)][authors.index(b)] = 1
-        break        
     return authors, adj_matrix
 
 
