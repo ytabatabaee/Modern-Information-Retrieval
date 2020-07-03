@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 import numpy as np
-from indexing import update_index
+from elastic_search.indexing import update_index
 
 max_ref = 10
 num_iter = 100
