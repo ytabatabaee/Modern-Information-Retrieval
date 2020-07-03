@@ -6,7 +6,7 @@ class ArticleCrawlerSpider(scrapy.Spider):
     start_urls = ['https://www.semanticscholar.org/paper/The-Lottery-Ticket-Hypothesis%3A-Training-Pruned-Frankle-Carbin/f90720ed12e045ac84beb94c27271d6fb8ad48cf',
                   'https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776',
                   'https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992']
-    max_crawled = 100
+    max_crawled = 2000
     max_ref = 10
     crawled_set = set()
 
@@ -35,5 +35,5 @@ class ArticleCrawlerSpider(scrapy.Spider):
         date = response.xpath("//meta[@name='citation_publication_date']/@content").get()
         abstract = response.xpath("//meta[@name='description']/@content").get()
         references = response.xpath("//div[@class='citation-list__citations']//div/div/h2/a/@href").getall()
-        references = [self.allowed_domains[0][:-1] + ref for ref in references]
+        references = list(set([self.allowed_domains[0][:-1] + ref for ref in references]))
         return {'id': id, 'title': title, 'authors': authors, 'date': date, 'abstract': abstract, 'references': references}
