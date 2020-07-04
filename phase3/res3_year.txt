@@ -1,0 +1,105 @@
+-------------------------------------------
+Search results for query:
+Title =  brain  with weight  1.0
+Abstract =  memory  with weight  1.0
+Date (Starting from) =  2019  with weight  100.0
+-------------------------------------------
+Paper  1 with score 106.07265
+
+* Title:  Older adults benefit from more widespread brain network integration during working memory
+
+* Abstract:  Neuroimaging evidence suggests that the aging brain relies on a more distributed set of cortical regions than younger adults in order to maintain successful levels of performance during demanding cognitive tasks. However, it remains unclear how task demands give rise to this age-related expansion in cortical networks. To investigate this issue, we used functional magnetic resonance imaging to measure univariate activity, network connectivity, and cognitive performance in younger and older adults during a working memory (WM) task. In the WM task investigated, participants hold letters online (maintenance) while reordering them alphabetically (manipulation). WM load was titrated to obtain four individualized difficulty levels. Network integration—defined as the ratio of within-versus between-network connectivity—was linked to individual differences in WM capacity. The study yielded three main findings. First, as task difficulty increased, network integration decreased in younger adults, whereas it increased in older adults. Second, age-related increases in network integration were driven by increases in right hemispheric connectivity to both left and right cortical regions, a finding that helps to reconcile extant theories of compensatory recruitment in aging to address the multivariate dynamics of global network functioning. Lastly, older adults with higher WM capacity demonstrated higher levels of network integration in the most difficult condition. These results shed light on the mechanisms of age-related network reorganization by suggesting that changes in network connectivity may act as an adaptive form of compensation, with older adults recruiting a more distributed cortical network as task demands increase. Significance statement Older adults often activate brain regions not engaged by younger adults, but the circumstances under which this widespread network emerges are unclear. Here, we examined the effects of aging on network connectivity between task regions recruited during a working memory (WM) manipulation task, and the rest of the brain. We found an age-related increase in the more global network integration in older adults, and an association between this integration and working memory capacity in older adults. The findings are generally consistent with the compensatory interpretation of these effects.
+
+* Authors: ['C.A. Crowell', 'S.W. Davis', 'Lysianne Beynel', 'Linchuan Deng', 'Devi Lakhlani', 'S.A. Hilbig', 'H. Palmer', 'Asha Brito', 'Jeffrey L Wang', 'Angel V. Peterchev', 'B. Luber', 'S.H. Lisanby', 'L.G. Appelbaum', 'R. Cabeza']
+
+* Date:  2019
+-------------------------------------------
+Paper  2 with score 105.09258
+
+* Title:  Older adults benefit from more widespread brain network integration during working memory
+
+* Abstract:  Neuroimaging evidence suggests that the aging brain relies on a more distributed set of cortical regions than younger adults in order to maintain successful levels of performance during demanding cognitive tasks. However, it remains unclear how task demands give rise to this age-related expansion in cortical networks. To investigate this issue, functional magnetic resonance imaging was used to measure univariate activity, network connectivity, and cognitive performance in younger and older adults during a working memory (WM) task. Here, individuals performed a WM task in which they held letters online while reordering them alphabetically. WM load was titrated to obtain four individualized difficulty levels with different set sizes. Network integration-defined as the ratio of within- versus between-network connectivity-was linked to individual differences in WM capacity. The study yielded three main findings. First, as task difficulty increased, network integration decreased in younger adults, whereas it increased in older adults. Second, age-related increases in network integration were driven by increases in right hemisphere connectivity to both left and right cortical regions, a finding that helps to reconcile existing theories of compensatory recruitment in aging. Lastly, older adults with higher WM capacity demonstrated higher levels of network integration in the most difficult task condition. These results shed light on the mechanisms of age-related network reorganization by demonstrating that changes in network connectivity may act as an adaptive form of compensation, with older adults recruiting a more distributed cortical network as task demands increase. 
+
+* Authors: ['Courtney A. Crowell', 'Singleton Waters Davis', 'Lysianne Beynel', 'L. Deng', 'R. Cabeza']
+
+* Date:  2020
+-------------------------------------------
+Paper  3 with score 104.50649
+
+* Title:  Severe Perinatal Hypoxic-Ischemic Brain Injury Induces Long-Term Sensorimotor Deficits, Anxiety-Like Behaviors and Cognitive Impairment in a Sex-, Age- and Task-Selective Manner in C57BL/6 Mice but Can Be Modulated by Neonatal Handling
+
+* Abstract:  Perinatal brain injury (PBI) leads to neurological disabilities throughout life, from motor deficits, cognitive limitations to severe cerebral palsy. Yet, perinatal brain damage has limited therapeutic outcomes. Besides, the immature brain of premature children is at increased risk of hypoxic/ischemic (HI) injury, with males being more susceptible to it and less responsive to protective/therapeutical interventions. Here, we model in male and female C57BL/6 mice, the impact of neonatal HI and the protective effects of neonatal handling (NH), an early life tactile and proprioceptive sensory stimulation. From postnatal day 1 (PND1, modeling pre-term) to PND21 randomized litters received either NH or left undisturbed. HI brain damage occurred by permanent left carotid occlusion followed by hypoxia at PND7 (modeling full-term) in half of the animals. The behavioral and functional screening of the pups at weaning (PND23) and their long-term outcomes (adulthood, PND70) were evaluated in a longitudinal study, as follows: somatic development (weight), sensorimotor functions (reflexes, rods and hanger tests), exploration [activity (ACT) and open-field (OF) test], emotional and anxiety-like behaviors [corner, open-field and dark-light box (DLB) tests], learning and memory [T-maze (TM) and Morris Water-Maze (MWM)]. HI induced similar brain damage in both sexes but affected motor development, sensorimotor functions, induced hyperactivity at weaning, and anxiety-like behaviors and cognitive deficits at adulthood, in a sex- and age-dependent manner. Thus, during ontogeny, HI affected equilibrium especially in females and prehensility in males, but only reflexes at adulthood. Hyperactivity of HI males was normalized at adulthood. HI increased neophobia and other anxiety-like behaviors in males but emotionality in females. Both sexes showed worse short/long-term learning, but memory was more affected in males. Striking neuroprotective effects of NH were found, with significantly lower injury scores, mostly in HI males. At the functional level, NH reversed the impaired reflex responses and improved memory performances in hippocampal-dependent spatial-learning tasks, especially in males. Finally, neuropathological correlates referred to atrophy, neuronal densities and cellularity in the affected areas [hippocampal-CA, caudate/putamen, thalamus, neocortex and corpus callosum (CC)] point out distinct neuronal substrates underlying the sex- and age- functional impacts of these risk/protection interventions on sensorimotor, behavioral and cognitive outcomes from ontogeny to adulthood.
+
+* Authors: ['Aida Muntsant', 'Kalpana Shrivastava', 'Mireia Recasens', 'Lydia Giménez-Llort']
+
+* Date:  2019
+-------------------------------------------
+Paper  4 with score 104.14877
+
+* Title:  CREB transcription in the medial prefrontal cortex regulates the formation of long-term associative recognition memory.
+
+* Abstract:  The medial prefrontal cortex (mPFC) is known to be critical for specific forms of long-term recognition memory, however the cellular mechanisms in the mPFC that underpin memory maintenance have not been well characterized. This study examined the importance of phosphorylation of cAMP responsive element binding protein (CREB) in the mPFC for different forms of long-term recognition memory in the rat. Adenoviral transduction of the mPFC with a dominant-negative inhibitor of CREB impaired object-in-place memory following a 6 or 24 h retention delay, but no impairment was observed following delays of 5 min or 3 h. Long-term object temporal order memory and spatial temporal order memory was also impaired. In contrast, there were no impairments in novel object recognition or object location memory. These results establish, for the first time, the importance of CREB phosphorylation within the mPFC for memory of associative and temporal information crucial to recognition.
+
+* Authors: ['Gareth Robert Isaac Barker', 'Liang Fong Wong', 'James B. Uney', 'Elizabeth Clea Warburton']
+
+* Date:  2020
+-------------------------------------------
+Paper  5 with score 103.769226
+
+* Title:  Cerebro-Cerebellar Pathways for Verbal Working Memory
+
+* Abstract:  The current study examined the structural and functional connectivity of the cerebro-cerebellar network of verbal working memory as proposed by Chen and Desmond (2005a). Diffusion spectrum imaging was employed to establish structural connectivity between cerebro-cerebellar regions co-activated during a verbal working memory task. The inferior frontal gyrus, inferior parietal lobule, pons, thalamus, superior cerebellum and inferior cerebellum were used as regions of interest to reconstruct and segment the contralateral white matter cerebro-cerebellar circuitry. The segmented pathways were examined further to establish the relationship between structural and effective connectivity as well as the relationship between structural connectivity and verbal working memory performance. No direct relationship between structural and effective connectivity was found but the results demonstrated that structural connectivity is indirectly related to effective connectivity as DCM models that resembled more closely with underlying white matter pathways had a higher degree of model inference confidence. Additionally, it was demonstrated that the structural connectivity of the ponto-cerebellar tract was associated with individual differences in response time for verbal working memory. The findings of the study contribute to further our understanding of the relationship between structural and functional connectivity and the impact of variability in verbal working memory performance.
+
+* Authors: ['M. Sobczak-Edmans', 'Yu-chun Lo', 'Yung-Chin Hsu', 'Yu-Jen Chen', 'Fu Yu Kwok', 'Kai-Hsiang Chuang', 'Wen-Yih Isaac Tseng', 'S. H. A. Chen']
+
+* Date:  2019
+-------------------------------------------
+Paper  6 with score 103.71841
+
+* Title:  Stereomotion Processing in the Nonhuman Primate Brain.
+
+* Abstract:  The cortical areas that process disparity-defined motion-in-depth (i.e., cyclopean stereomotion [CSM]) were characterized with functional magnetic resonance imaging (fMRI) in two awake, behaving macaques. The experimental protocol was similar to previous human neuroimaging studies. We contrasted the responses to dynamic random-dot patterns that continuously changed their binocular disparity over time with those to a control condition that shared the same properties, except that the temporal frames were shuffled. A whole-brain voxel-wise analysis revealed that in all four cortical hemispheres, three areas showed consistent sensitivity to CSM. Two of them were localized respectively in the lower bank of the superior temporal sulcus (CSMSTS) and on the neighboring infero-temporal gyrus (CSMITG). The third area was situated in the posterior parietal cortex (CSMPPC). Additional regions of interest-based analyses within retinotopic areas defined in both animals indicated weaker but significant responses to CSM within the MT cluster (most notably in areas MSTv and FST). Altogether, our results are in agreement with previous findings in both human and macaque and suggest that the cortical areas that process CSM are relatively well preserved between the two primate species.
+
+* Authors: ['Yseult Héjja-Brichard', 'Samy Rima', 'Emilie Rapha', 'Jean-Baptiste Durand', 'Benoit R. Cottereau']
+
+* Date:  2020
+-------------------------------------------
+Paper  7 with score 103.46355
+
+* Title:  Age-related Differences in Oscillatory Activity in Hippocampal and Neocortical Networks
+
+* Abstract:  The brain adapts to structural and functional changes that naturally occur over the latter half of the human lifespan, enabling people to maintain cognitive function. However, the nature of these changes has not yet been fully characterized. The present dissertation examines the extent to which aging is associated with changes in the recruitment of oscillatory activity within hippocampal and neocortical regions to support relational memory performance on a short delay visuospatial memory task. Structural magnetic resonance imaging and magnetoencephalography were used to characterize potential age-related changes in hippocampal volume, oscillatory activity, and subsequent memory performance, and the relationships among them. Sixteen younger and 16 older adults were sequentially presented with three objects during a study phase. Following a short delay, the objects were re-presented simultaneously, and participants had to determine whether the spatial relations among the objects had been maintained. Older and younger adults showed similar task accuracy, and older adults had preserved hippocampal volumes, but had longer response latencies relative to younger adults. Age-group differences in
+
+* Authors: ['Renante Rondina']
+
+* Date:  2019
+-------------------------------------------
+Paper  8 with score 103.46156
+
+* Title:  Prefrontal working memory activity predicts episodic memory performance: A neuroimaging study
+
+* Abstract:  Working memory (WM) and long term memory (LTM) are different neuropsychological processes, although distinction between these domains is an area of debate. LTM is thought to rely on hippocampal circuitry. Cognitive neuroscience models imply that WM processing may at least partially support LTM within regions of the prefrontal cortex (PFC). We sought to determine the association between PFC based WM processing and LTM in the visuospatial domain. In contrast to prior work, we aimed to query if WM was involved in learning and free recall trials as measured by standard neuropsychological tests of LTM. Forty-three older adults (24 with a diagnosis of amnestic Mild Cognitive Impairment and 19 elderly controls) were included in the analysis. Patients completed a fMRI task of visuospatial maintenance WM in which they were required to match a previously studied complex shape with one of two probes. Extent of activity in the right PFC during the WM task was tabulated for each patient. Hippocampal volume was quantified from T1 scans. On a separate day patients completed neuropsychological testing, including the Brief Visuospatial Memory Test- Revised (BVMT-R), which includes learning trials (total recall), delayed free recall, and recognition. Right PFC activity was associated with performance on BVMT-R total recall and delayed recall. Results from multiple regression showed that PFC activity explained an additional 9% of the variance in memory performance above right hippocampal volume. These findings suggest that PFC processing that supports WM (including stimuli maintenance, retrieval, and selection) are also involved in LTM learning and recall.
+
+* Authors: ['Rebecca J. Melrose', 'Evan Zahniser', 'Stacy Schantz Wilkins', 'Joseph Veliz', 'Amy M. Jimenez']
+
+* Date:  2020
+-------------------------------------------
+Paper  9 with score 103.46156
+
+* Title:  Neural markers of category-based selective working memory in aging
+
+* Abstract:  Working memory (WM) is essential for normal cognitive function, but shows marked decline in aging. The importance of selective attention in guiding WM performance is increasingly recognized. Studies so far are inconclusive about the ability to use selective attention during WM in aging. To investigate the neural mechanisms supporting selective attention in WM in aging, we tested a large group of older adults using functional magnetic resonance imaging whilst they performed a category-based (faces/houses) selective-WM task. Older adults were able to use attention to encode targets and suppress distractors to reach high levels of task performance. A subsequent, surprise recognition-memory task showed strong consequences of selective attention. Attended items in the relevant category were recognized significantly better than items in the ignored category. Neural measures also showed reliable markers of selective attention during WM. Purported control regions including the dorsolateral and inferior prefrontal and anterior cingulate cortex were reliably recruited for attention to both categories. Activation levels in category-sensitive visual cortex showed reliable modulation according to attentional demands, and positively correlated with subsequent memory measures of attention and WM span. Psychophysiological interaction analyses showed that activity in category-sensitive areas were coupled with non-sensory cortex known to be involved in cognitive control and memory processing, including regions in the prefrontal cortex and hippocampus. In summary, we found that older adults were able to recruit a network of brain regions involved in top-down attention during selective WM, and individual differences in attentional control corresponded to the degree of attention-related modulation in the brain.
+
+* Authors: ['Robert M. Mok', "M. Clare O'Donoghue", 'Nicholas E. Myers', 'Erin H. S. Drazich', 'Anna Christina Nobre']
+
+* Date:  2019
+-------------------------------------------
+Paper  10 with score 103.46156
+
+* Title:  When cognitive control harms rather than helps: individuals with high working memory capacity are less efficient at infrequent contraction of attentional breadth.
+
+* Abstract:  Different attentional breadths facilitate performance on different types of perceptual tasks. For instance, a narrow attentional breadth improves spatial resolution; whereas a broad attentional breath enhances face perception. This means that to optimise attention for the dynamic demands of real-world vision, it is necessary to efficiently resize attentional breadth. Previous research has shown that individuals differ considerably in how efficiently they can resize their attentional breadth. Since working memory capacity can be conceptualised as the ability to effectively regulate one's attentional resources, the present study examined whether individual differences in attentional resizing efficiency were related to working memory capacity. Tasks that gauge the efficiency of attentional contraction (resizing from broad to narrow focus) and attentional expansion (resizing from narrow to broad) were used, in addition to standard working memory measures. It was found that individuals high in working memory capacity experienced a greater cost in attentional contraction, that is, they were less efficient in resizing from a broad to a narrow attentional focus. This is likely because the attentional resizing tasks encourage the setting of a particular attentional breadth for the majority of trials in a block, and then gauge efficiency in changing from this breadth on the minority of trials. This means that high-capacity individuals may have more readily adopted the dominant attentional breadth, particularly in the majority-global condition, thereby incurring a greater cost on the infrequent trials requiring resizing to the local level. This shows that at least in some circumstances, greater cognitive control can be a relative disadvantage.
+
+* Authors: ['Stephanie C. Goodhew']
+
+* Date:  2020

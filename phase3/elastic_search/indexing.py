@@ -13,6 +13,7 @@ def create_index(es_address, crawled_fp):
         for paper in crawl_res:
             papers.append({'_index': 'paper-index', 'paper': paper})
     helpers.bulk(es, papers)
+    print("Index created successfully!")
 
 
 def update_index(papers, es_address):
@@ -28,6 +29,7 @@ def update_index(papers, es_address):
 def delete_index(es_address):
     es = connect_to_es(es_address)
     es.indices.delete(index="paper-index")
+    print("Index deleted successfully!")
 
 
 def connect_to_es(es_address):

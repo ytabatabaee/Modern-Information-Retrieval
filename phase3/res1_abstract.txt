@@ -1,0 +1,106 @@
+-------------------------------------------
+Search results for query:
+Title =  brain  with weight  1.0
+Abstract =  memory  with weight  100.0
+Date (Starting from) =  2019  with weight  1.0
+-------------------------------------------
+Paper  1 with score 421.29584
+
+* Title:  Working-memory performance is related to spatial breadth of attention
+
+* Abstract:  Working memory and attention are closely related constructs. Models of working memory often incorporate an attention component, and some even equate working memory and attentional control. Although some attention-related processes, including inhibitory control of response conflict and interference resolution, are strongly associated with working memory, for other aspects of attention the link is less clear. We examined the association between working-memory performance and attentional breadth, the ability to spread attention spatially. If the link between attention and working memory is broader than inhibitory and interference resolution processes, then working-memory performance might also be associated with other attentional abilities, including attentional breadth. We tested 123 participants on a variety of working-memory and attentional-breadth measures, finding a strong correlation between performances on these two types of tasks. This finding demonstrates that the link between working memory and attention extends beyond inhibitory processes.
+
+* Authors: ['Carina Kreitz', 'Philip Furley', 'Daniel Memmert', 'Daniel J. Simons']
+
+* Date:  2015
+-------------------------------------------
+Paper  2 with score 419.84152
+
+* Title:  Stress- and treatment-induced elevations of cortisol levels associated with impaired declarative memory in healthy adults.
+
+* Abstract:  Two studies investigated the association between cortisol levels and memory performance in healthy adults. In a first study, 13 subjects were exposed to a brief psychosocial laboratory stress ("Trier Social Stress Test") with a subsequent test of declarative memory performance. Results indicated a significant negative relationship between stress-induced cortisol levels and performance in the memory task, i.e. subjects with high cortisol response to the stressor showed poorer memory performance. In a second experiment it was investigated if cortisol, alone, i.e. independent of psychological stress, would also impair memory function. In this study, 40 healthy subjects received either 10 mg cortisol or placebo orally. One hour later they were tested for procedural and declarative memory and spatial thinking. Subjects who received cortisol showed impaired performance in the declarative memory and spatial thinking tasks but not in the procedural memory task. From these results we conclude that in healthy adults elevated free cortisol levels are associated with impaired memory function.
+
+* Authors: ['Clemens Kirschbaum', 'Oliver Tobias Wolf', 'M. K. May', 'Werner Wippich', 'Dirk H. Hellhammer']
+
+* Date:  1996
+-------------------------------------------
+Paper  3 with score 418.5954
+
+* Title:  Regional brain activity during working memory tasks.
+
+* Abstract:  The first aim of our PET study was to replicate previous findings concerning the brain areas activated by a verbal working memory task. The second aim was to specify the neural basis of the central executive, using a task of working memory updating. Our data confirm that the lower left supramarginal gyrus and premotor area are the key regions subserving short-term verbal memory processes. They also suggest that the updating memory task is related to middorsolateral prefrontal activation, most probably responsible for the updating function of the central executive. An unexpected, predominantly right activation occurred in the inferior parietal region during the verbal memory updating task, which we related to a visuospatial strategy used to maintain the information in short-term memory. A third purpose was to explore the brain regions activated by a nonverbal, visual memory task, and our results confirm the importance of the superior occipital gyrus in the visual short-term memory.
+
+* Authors: ['Eric Salmon', 'Martial van der Linden', 'Fabienne Collette', 'Guy Delfiore', 'Pierre Maquet', 'Christian Degueldre', 'André Luxen', 'Georges Franck']
+
+* Date:  1996
+-------------------------------------------
+Paper  4 with score 418.16785
+
+* Title:  NMDA Receptor Plasticity in the Perirhinal and Prefrontal Cortices Is Crucial for the Acquisition of Long-Term Object-in-Place Associative Memory
+
+* Abstract:  A key process for recognition memory is the formation of associations between an object and the place in which it was encountered, a process that has been shown to require the perirhinal (PRH) and medial prefrontal (mPFC) cortices. Here we demonstrate, for the first time, the importance of glutamatergic neurotransmission, within the PRH and mPFC, for object-in-place associative recognition memory. Unilateral blockade of AMPA receptors (by CNQX) in the PRH and mPFC in opposite hemispheres impaired an object-in-place task in rats, confirming that these cortical regions operate within a neural network for object-in-place recognition memory. Intra-mPFC infusions of AP5 (NMDA receptor antagonist) impaired short-term memory and the acquisition of long-term memory, but had no effect on retrieval. AP5 infusions into the PRH disrupted acquisition of long-term memory, but not short-term memory or retrieval. Significantly, crossed AP5 infusions into both the PRH and mPFC disrupted acquisition of long-term memory but were without effect on short-term memory. Finally a unilateral infusion of the selective kainate (GLUK5) receptor antagonist UBP302 [(S)-1-(2-amino-2-carboxyethyl)-3-(2-carboxybenzyl)pyrimidine-2,4-dione] into the PRH combined with a unilateral infusion of AP5 into the contralateral mPFC significantly impaired short-term object-in-place associative memory. These data show that the PRH and mPFC make distinct contributions to object-in-place associative memory and that the encoding of long-term but not short-term memory requires concurrent NMDA receptor activation in both cortical regions. In contrast, short-term object-in-place memory appears to be dependent on kainate receptor activation in the PRH and NMDA receptor activation in the mPFC.
+
+* Authors: ['Gareth Robert Isaac Barker', 'Elizabeth Clea Warburton']
+
+* Date:  2008
+-------------------------------------------
+Paper  5 with score 417.68625
+
+* Title:  Memory updating in working memory: The role of the central executive
+
+* Abstract:  Two experiments are reported which suggest that a dynamic memory updating task, running memory, requires two independent mechanisms — the articulatory loop and a component of the central executive. Experiment 1 shows that irrelevant speech and articulatory suppression impair the serial recall component of the running memory task but not the updating component. Updating memory affects performance independently of the effects of irrelevant speech and suppression. The second experiment produced the same pattern of results with a close to span memory load. These results are interpreted in terms of the working memory model outlined by Baddeley (1986). It is concluded that the updating of working memory in real time is coordinated by a central executive component of the model.
+
+* Authors: ['Neil Morris', 'Dylan Marc Jones']
+
+* Date:  1990
+-------------------------------------------
+Paper  6 with score 416.0687
+
+* Title:  Persistent LIP activity in memory antisaccades: working memory for a sensorimotor transformation.
+
+* Abstract:  The lateral intraparietal area (LIP) contains neurons that are active during the memory interval of memory saccades. We call these "persistent neurons." Here we study the activity of the persistent neurons in memory antisaccades, "motor" (the saccade is made toward the response field, although the response field is not stimulated visually) and "visual" (the response field is stimulated visually, but the movement is away from the field). Most persistent neurons are active during parts of the memory intervals of both visual and motor memory-antisaccades. Typically, these parts significantly overlap each other and together span the entire memory interval. The amplitude of the activity changes systematically during the memory intervals of visual and motor memory antisaccades. These changes are reflected in an antisaccade differential activity, which turns first to the visual direction and then crosses over to the motor direction. Some persistent neurons appear to show the paradoxical activity previously characterized in visual neurons; paradoxical activity accelerates the transition of the neuron's activity from visual to motor. These observations suggest that the persistent neurons reflect working memory for the computation of the antisaccade sensorimotor transformation. Ensembles of persistent neurons with different response fields may make up modules of working memory.
+
+* Authors: ['Mingsha Zhang', 'Shabtai Barash']
+
+* Date:  2004
+-------------------------------------------
+Paper  7 with score 415.87698
+
+* Title:  CREB transcription in the medial prefrontal cortex regulates the formation of long-term associative recognition memory.
+
+* Abstract:  The medial prefrontal cortex (mPFC) is known to be critical for specific forms of long-term recognition memory, however the cellular mechanisms in the mPFC that underpin memory maintenance have not been well characterized. This study examined the importance of phosphorylation of cAMP responsive element binding protein (CREB) in the mPFC for different forms of long-term recognition memory in the rat. Adenoviral transduction of the mPFC with a dominant-negative inhibitor of CREB impaired object-in-place memory following a 6 or 24 h retention delay, but no impairment was observed following delays of 5 min or 3 h. Long-term object temporal order memory and spatial temporal order memory was also impaired. In contrast, there were no impairments in novel object recognition or object location memory. These results establish, for the first time, the importance of CREB phosphorylation within the mPFC for memory of associative and temporal information crucial to recognition.
+
+* Authors: ['Gareth Robert Isaac Barker', 'Liang Fong Wong', 'James B. Uney', 'Elizabeth Clea Warburton']
+
+* Date:  2020
+-------------------------------------------
+Paper  8 with score 414.1233
+
+* Title:  Contrasting effects of reward expectation on sensory and motor memories in primate prefrontal neurons.
+
+* Abstract:  The value of reward obtained with successful behavior is important for guiding purposeful behavior. The lateral prefrontal cortex (LPFC) has been implicated in working memory that guides goal-directed behavior. However, mechanism that integrates the reward value into the working memory for goal-directed behavior is not understood. To help clarify this issue, we examined the effect of reward expectation on the neuronal process in the LPFC associated with memory-based sensorimotor processing. By temporally dissociating visuospatial sensory and saccade-directional motor memories in the LPFC, we here show that reward expectation significantly enhanced the directional selectivity of sensory working memory but did not affect the directional selectivity of motor memory. The enhancement of sensory working memory in the neuronal population was sustained during the delay but extinguished soon after the motor memory appeared. These results suggest that the expectation of high reward value primarily affects the sensory working memory that may be used for behavioral guidance rather than preparation for forthcoming saccades. It thus appears that the LPFC is a neuronal substrate for working memory used to guide a reward-oriented behavior, rather than reflecting an efficient control of motor action in motivated states.
+
+* Authors: ['Ken-ichi Amemori', 'Toshiyuki Sawaguchi']
+
+* Date:  2006
+-------------------------------------------
+Paper  9 with score 412.62408
+
+* Title:  Working Memory: A View from Neuroimaging
+
+* Abstract:  We have used neuroimaging techniques, mainly positron emission tomography (PET), to study cognitively driven issues about working memory. Two kinds of experiments are described. In the first kind, we employ standard subtraction logic to uncover the basic components of working memory. These studies indicate that: (a) there are different working-memory systems for spatial, object, and verbal information (with the spatial system localized more in the right hemisphere, and the verbal system more in the left hemisphere); (b) within at least the spatial and verbal systems, separable components seem to be responsible for the passive storage of information and the active maintenance of information (with the storage component being localized more in the back of the brain, and the maintenance component in the front); and (c) there may be separate components responsible for processing the contents of working memory (localized in prefrontal cortex). In our second kind of experiment we have focused on verbal working memory and incrementally varied one task parameter-memory load-in an effort to obtain a more fine-grained analysis of the system's operations. The results indicate that all relevant components of the system show some increase in activity with increasing memory load (e.g., the frontal regions responsible for verbal rehearsal show incremental increases in activation with increasing memory load). In contrast, brain regions that are not part of the working-memory system show no effect of memory load. Furthermore, the time courses of activation may differ for regions that are sensitive to load versus those that are not. Taken together, our results provide support for certain cognitive models of working memory (e.g., Baddeley, 1992) and also suggest some distinctions that these models have not emphasized. And more fundamentally, the results provide a neural base for cognitive models of working memory.
+
+* Authors: ['Edward E. Smith', 'John Jonides']
+
+* Date:  1997
+-------------------------------------------
+Paper  10 with score 411.53745
+
+* Title:  Brain activity related to working memory for temporal order and object information
+
+* Abstract:  ABSTRACT Maintaining items in an appropriate sequence is important for many daily activities; however, remarkably little is known about the neural basis of human temporal working memory. Prior work suggests that the prefrontal cortex (PFC) and medial temporal lobe (MTL), including the hippocampus, play a role in representing information about temporal order. The involvement of these areas in successful temporal working memory, however, is less clear. Additionally, it is unknown whether regions in the PFC and MTL support temporal working memory across different timescales, or at coarse or fine levels of temporal detail. To address these questions, participants were scanned while completing 3 working memory task conditions (Group, Position and Item) that were matched in terms of difficulty and the number of items to be actively maintained. Group and Position trials probed temporal working memory processes, requiring the maintenance of hierarchically organized coarse and fine temporal information, respectively. To isolate activation related to temporal working memory, Group and Position trials were contrasted against Item trials, which required detailed working memory maintenance of visual objects. Results revealed that working memory encoding and maintenance of temporal information relative to visual information was associated with increased activation in dorsolateral PFC (DLPFC), and perirhinal cortex (PRC). In contrast, maintenance of visual details relative to temporal information was characterized by greater activation of parahippocampal cortex (PHC), medial and anterior PFC, and retrosplenial cortex. In the hippocampus, a dissociation along the longitudinal axis was observed such that the anterior hippocampus was more active for working memory encoding and maintenance of visual detail information relative to temporal information, whereas the posterior hippocampus displayed the opposite effect. Posterior parietal cortex was the only region to show sensitivity to temporal working memory across timescales, and was particularly involved in the encoding and maintenance of fine temporal information relative to maintenance of temporal information at more coarse timescales. Collectively, these results highlight the involvement of PFC and MTL in temporal working memory processes, and suggest a dissociation in the type of working memory information represented along the longitudinal axis of the hippocampus.
+
+* Authors: ['Brooke M. Roberts', 'Laura A. Libby', 'Marika C Inhoff', 'Charan Ranganath']
+
+* Date:  2018
+-------------------------------------------

@@ -1,0 +1,105 @@
+-------------------------------------------
+Search results for query:
+Title =  brain  with weight  100.0
+Abstract =  memory  with weight  1.0
+Date (Starting from) =  2019  with weight  1.0
+-------------------------------------------
+Paper  1 with score 497.84448
+
+* Title:  Brain
+
+* Abstract:  Browne, Lockhart Clarke, Kesteven, Moxon, &c., the journal cannot fail to secure the support of the profession. With the exception of one or two articles, those which have already appeared are of an essentially practical and valuable character. We are sorry to find that Dr. Bucknill, in his review of Dr. Bateman's " Darwinism tested by Language," in the first number of Brain, has allowed his odium anti-theologicum to bias his judgment. It is an unpardonable offence to him that the book should be ushered in with a preface by Dr. Goulburn, the Dean of Norwich. If Dr. Bateman's views are sound, as we hope to prove them to be, surely it cannot matter whether the
+
+* Authors: ['John M. Winn']
+
+* Date:  1978
+-------------------------------------------
+Paper  2 with score 425.71445
+
+* Title:  4 Brain Commissural Anomalies
+
+* Abstract:  The human brain commissures include the corpus callosum (neocortical), the anterior commissure (paleocortical), the fornix (archicortical) [ the hippocampal commissure (also called commissure of psalterium Davidi or David’s lyre in the older literature)] (Raybaud, 2010) and the posterior commisure (Keene, 1938). The largest of the commissures in advanced mammals is the corpus callosum that holds its name from its compactness (Raybaud, 2010) which develops embryologically in intimate relationship to the hippocampal formation, fornix, septum pellucidum, and cingulate gyrus (Swayze et al., 1990). It has already been accepted that the commissural fibers are important for transfer of complex cognitive information between the brain hemispheres (Zaidel, 1994; van der Knaap & van der Ham, 2011) and coordinated transfer of information is essential for the cerebral functions (Moldrich et al., 2010). In normal condition, commissural fibers must be actively guided across the midline to reach their targets in the contralateral hemisphere. When the underlying mechanisms regulating the guidance of commissural fibers fail, pathological dysgenesis of one or more commissures ensues. It is suggested that a complex set of cellular and molecular mechanisms regulate commissural development (Ren et al., 2006). Malformation of the corpus callosum is a various condition, which can be observed either as isolated form or as one manifestation in the context of congenital syndromes (Schell-Apacik et al., 2008). Based on survey of 596 network families, the most frequently clinical findings reported about agenesis of the corpus callosum are developmental delay, visual problems, language delay, seizures, and muscletone issues (Schilmoeller & Schilmoeller, 2000). Furthermore, agenesis of the corpus callosum results in disabilities in social cognition that appears to be secondary to deficits in complex cognitive operations such as reasoning, concept formation, and problem solving (Doherty et al., 2006). Also, there is no evidence that individuals with partial agenesis of the corpus callosum have better outcomes than individuals with complete agenesis the corpus callosum (Moes et al., 2009). Although, the embryology, anatomy, functions, anomalies and molecular mechanisms of the human brain commissures have been extensively studied over the past years. However a need to an overall and new collection on the basis of the other recent studies was seriously felt. Therefore this chapter is to provide a collection of the fundamental principles of the embryogenesis, organization, congenital malformations of brain commissures. The chapter presents new information about prevalence, the brain disorders associated with commissural anomalies, the etiology and the pathogenetic mechanisms that have been understood in recent years in this issue in the neurosciences.
+
+* Authors: ['Behpour Yousefi']
+
+* Date:  2018
+-------------------------------------------
+Paper  3 with score 388.2167
+
+* Title:  Optimal Brain Surgeon Variants for Optimization
+
+* Abstract:  The determination of the optimal architecture of a multilayer perceptron (MLP) to solve a specific problem is an important and a difficult task. Several approaches based on saliency analysis, such as the Optimal Brain Surgeon method (OBS), have been developed in this field. Nevertheless, we show in this paper that OBS does not gives an optimal architecture. We also present the advantages of applying OBS on the architecture obtained by a variable selection method. New hybrid methods are proposed. A comparison of our approaches to standard techniques for architecture optimization is pre-sented.Simulation results obtained on the Monk's problem illustrate the specificities of each method described in this paper.
+
+* Authors: ['Mohammed Attik', 'Laurent Bougrain', 'Frédéric Alexandre']
+
+* Date:  2004
+-------------------------------------------
+Paper  4 with score 388.2167
+
+* Title:  Functional imaging of the monkey brain
+
+* Abstract:  Functional magnetic resonance imaging (fMRI) has become an essential tool for studying human brain function. Here we describe the application of this technique to anesthetized monkeys. We present spatially resolved functional images of the monkey cortex based on blood oxygenation level dependent (BOLD) contrast. Checkerboard patterns or pictures of primates were used to study stimulus-induced activation of the visual cortex, in a 4.7-Tesla magnetic field, using optimized multi-slice, gradient-recalled, echo-planar imaging (EPI) sequences to image the entire brain. Under our anesthesia protocol, visual stimulation yielded robust, reproducible, focal activation of the lateral geniculate nucleus (LGN), the primary visual area (V1) and a number of extrastriate visual areas, including areas in the superior temporal sulcus. Similar responses were obtained in alert, behaving monkeys performing a discrimination task.
+
+* Authors: ['Nikos K. Logothetis', 'Heinz Guggenberger', 'Sharon Peled', 'Jon Pauls']
+
+* Date:  1999
+-------------------------------------------
+Paper  5 with score 386.9833
+
+* Title:  Reshaping the brain after stroke: The effect of prismatic adaptation in patients with right brain damage
+
+* Abstract:  ABSTRACT Prismatic adaptation has been repeatedly reported to alleviate neglect symptoms; in normal subjects, it was shown to enhance the representation of the left visual space within the left inferior parietal cortex. Our study aimed to determine in humans whether similar compensatory mechanisms underlie the beneficial effect of prismatic adaptation in neglect. Fifteen patients with right hemispheric lesions and 11 age‐matched controls underwent a prismatic adaptation session which was preceded and followed by fMRI using a visual detection task. In patients, the prismatic adaptation session improved the accuracy of target detection in the left and central space and enhanced the representation of this visual space within the left hemisphere in parts of the temporal convexity, inferior parietal lobule and prefrontal cortex. Across patients, the increase in neuronal activation within the temporal regions correlated with performance improvements in this visual space. In control subjects, prismatic adaptation enhanced the representation of the left visual space within the left inferior parietal lobule and decreased it within the left temporal cortex. Thus, a brief exposure to prismatic adaptation enhances, both in patients and in control subjects, the competence of the left hemisphere for the left space, but the regions extended beyond the inferior parietal lobule to the temporal convexity in patients. These results suggest that the left hemisphere provides compensatory mechanisms in neglect by assuming the representation of the whole space within the ventral attentional system. The rapidity of the change suggests that the underlying mechanism relies on uncovering pre‐existing synaptic connections. HIGHLIGHTSPrismatic adaptation improves target detection in right hemisphere damaged patients.This improvement is related to increased recruitment of the left temporal regions.Prismatic adaptation shifts hemispheric dominance for attention to left hemisphere.The rapidity of the effect may rely on uncovering pre‐existing synaptic connections.
+
+* Authors: ['Sonia Crottaz-Herbette', 'Eleonora Fornari', 'Michael Notter', 'Claire Bindschaedler', 'Stephanie Clarke']
+
+* Date:  2017
+-------------------------------------------
+Paper  6 with score 375.9893
+
+* Title:  Regional brain activity during working memory tasks.
+
+* Abstract:  The first aim of our PET study was to replicate previous findings concerning the brain areas activated by a verbal working memory task. The second aim was to specify the neural basis of the central executive, using a task of working memory updating. Our data confirm that the lower left supramarginal gyrus and premotor area are the key regions subserving short-term verbal memory processes. They also suggest that the updating memory task is related to middorsolateral prefrontal activation, most probably responsible for the updating function of the central executive. An unexpected, predominantly right activation occurred in the inferior parietal region during the verbal memory updating task, which we related to a visuospatial strategy used to maintain the information in short-term memory. A third purpose was to explore the brain regions activated by a nonverbal, visual memory task, and our results confirm the importance of the superior occipital gyrus in the visual short-term memory.
+
+* Authors: ['Eric Salmon', 'Martial van der Linden', 'Fabienne Collette', 'Guy Delfiore', 'Pierre Maquet', 'Christian Degueldre', 'André Luxen', 'Georges Franck']
+
+* Date:  1996
+-------------------------------------------
+Paper  7 with score 372.8405
+
+* Title:  Stereomotion Processing in the Nonhuman Primate Brain.
+
+* Abstract:  The cortical areas that process disparity-defined motion-in-depth (i.e., cyclopean stereomotion [CSM]) were characterized with functional magnetic resonance imaging (fMRI) in two awake, behaving macaques. The experimental protocol was similar to previous human neuroimaging studies. We contrasted the responses to dynamic random-dot patterns that continuously changed their binocular disparity over time with those to a control condition that shared the same properties, except that the temporal frames were shuffled. A whole-brain voxel-wise analysis revealed that in all four cortical hemispheres, three areas showed consistent sensitivity to CSM. Two of them were localized respectively in the lower bank of the superior temporal sulcus (CSMSTS) and on the neighboring infero-temporal gyrus (CSMITG). The third area was situated in the posterior parietal cortex (CSMPPC). Additional regions of interest-based analyses within retinotopic areas defined in both animals indicated weaker but significant responses to CSM within the MT cluster (most notably in areas MSTv and FST). Altogether, our results are in agreement with previous findings in both human and macaque and suggest that the cortical areas that process CSM are relatively well preserved between the two primate species.
+
+* Authors: ['Yseult Héjja-Brichard', 'Samy Rima', 'Emilie Rapha', 'Jean-Baptiste Durand', 'Benoit R. Cottereau']
+
+* Date:  2020
+-------------------------------------------
+Paper  8 with score 371.8405
+
+* Title:  Optimal Brain Surgeon and general network pruning
+
+* Abstract:  The use of information from all second-order derivatives of the error function to perform network pruning (i.e., removing unimportant weights from a trained network) in order to improve generalization, simplify networks, reduce hardware or storage requirements, increase the speed of further training, and, in some cases, enable rule extraction, is investigated. The method, Optimal Brain Surgeon (OBS), is significantly better than magnitude-based methods and Optimal Brain Damage, which often remove the wrong weights. OBS, permits pruning of more weights than other methods (for the same error on the training set), and thus yields better generalization on test data. Crucial to OBS is a recursion relation for calculating the inverse Hessian matrix H/sup -1/ from training data and structural information of the set. OBS deletes the correct weights from a trained XOR network in every case.<<ETX>>
+
+* Authors: ['Babak Hassibi', 'David G. Stork', 'Gregory J. Wolff']
+
+* Date:  1993
+-------------------------------------------
+Paper  9 with score 371.8405
+
+* Title:  Optimal brain surgeon variants for feature selection
+
+* Abstract:  This paper presents three pruning algorithms based on optimal brain surgeon (OBS) and unit-optimal brain surgeon (unit-OBS). The first variant performs a backward selection by successively removing single weights from the input variables to the hidden units in a fully connected multilayer perceptron (MLP) for variable selection. The second one removes a subset of non-significant weights in one step. The last one combines the two properties presented above. Simulation results obtained on the Monk's problem illustrate the specificities of each method described in this paper according to the preserved variables and the preserved weights.
+
+* Authors: ['Mohammed Attik', 'Laurent Bougrain', 'Frédéric Alexandre']
+
+* Date:  2004
+-------------------------------------------
+Paper  10 with score 371.8405
+
+* Title:  A lateralized brain network for visuospatial attention
+
+* Abstract:  Right hemisphere dominance for visuospatial attention is characteristic of most humans, but its anatomical basis remains unknown. We report the first evidence in humans for a larger parieto-frontal network in the right than left hemisphere, and a significant correlation between the degree of anatomical lateralization and asymmetry of performance on visuospatial tasks. Our results suggest that hemispheric specialization is associated with an unbalanced speed of visuospatial processing.
+
+* Authors: ['Michel Thiebaut de Schotten', "Flavio Dell'Acqua", 'Stephanie J. Forkel', 'Andrew Simmons', 'Francesco Vergani', 'Declan G. M. Murphy', 'Marco Catani']
+
+* Date:  2011
