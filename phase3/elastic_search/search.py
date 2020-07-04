@@ -3,7 +3,7 @@ from elasticsearch import helpers
 
 num_query = 10
 
-def search_query(es_address, title, abstract, date, title_weight, abstract_weight, date_weight, use_pagerank):
+def search_query(es_address, title, abstract, date, title_weight=1, abstract_weight=1, date_weight=1, use_pagerank=False):
     es = Elasticsearch(['http://' + es_address + '/'])
     query_constraits = []
     query_constraits.append({
@@ -24,7 +24,7 @@ def search_query(es_address, title, abstract, date, title_weight, abstract_weigh
         "range": {
             "paper.date": {
                 "gte": date,
-                "boost": date_weight
+                "boost": date_weight,
             }
         }})
     if use_pagerank:
@@ -32,20 +32,11 @@ def search_query(es_address, title, abstract, date, title_weight, abstract_weigh
             "range": {
                 "pagerank": {
                     "gte": 0,
-                    "boost": 1
+                    "boost": 10000000,
                 }
             }})
-
-    print({
-       "query": {
-           "bool": {
-               "should": query_constraits
-           }
-       }
-   })
-    return es.search(
+    papers = es.search(
         index = 'paper-index',
-        doc_type = 'paper',
         body = {
             "query": {
                 "bool": {
@@ -53,10 +44,26 @@ def search_query(es_address, title, abstract, date, title_weight, abstract_weigh
                 }
             }
         },
-        size = 10)['hits']
+        size = num_query)['hits']['hits']
+
+    print("-------------------------------------------")
+    print("Search results for query:")
+    print("Title = ", title, " with weight ", float(title_weight))
+    print("Abstract = ", abstract, " with weight ", float(abstract_weight))
+    print("Date (Starting from) = ", date, " with weight ", float(date_weight))
+    print("-------------------------------------------")
+
+
+    for i in range(len(papers)):
+        paper = papers[i]['_source']['paper']
+        print("Paper ", str(i + 1), "with score", papers[i]["_score"])
+        print("* Title: ", paper['title'])
+        print("* Abstract: ", paper['abstract'])
+        print("* Authors:", paper['authors'])
+        print("* Date: ", paper['date'])
+        print("-------------------------------------------")
 
 
 
 if __name__ == '__main__':
-    res = search_query('localhost:9200', '', '', '2015', 1, 1, 1, False)
-    print(res)
+    search_query('localhost:9200', 'Neural', 'Net', '2019', 1, 10, 100, False)

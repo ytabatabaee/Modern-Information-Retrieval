@@ -31,8 +31,8 @@ if __name__ == "__main__":
         elif section == "3. Page Rank":
             es_address = questionary.text("Enter elastic search host and port as 'host:port': ").ask()
             alpha = float(questionary.text("Enter alpha parameter in pagerank: ").ask())
-            print(es_address)
-            print(alpha)
+            page_rank(es_address, alpha)
+
 
         elif section == "4. Search":
             es_address = questionary.text("Enter elastic search host and port as 'host:port': ").ask()

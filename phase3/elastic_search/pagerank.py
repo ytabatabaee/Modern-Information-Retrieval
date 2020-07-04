@@ -2,6 +2,7 @@ from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 import numpy as np
 from elastic_search.indexing import update_index
+import networkx as nx
 
 max_ref = 10
 num_iter = 100
@@ -16,7 +17,15 @@ def page_rank(es_address, alpha):
     print('pagerank = ', v)
     papers = add_to_papers(v, papers)
     update_index(papers, es_address)
+    print('Pagerank added to index successfully!')
+    page_rank_validate(prob_matrix, alpha)
     return v
+
+def page_rank_validate(adj_matrix, alpha):
+    G = nx.Graph(adj_matrix)
+    pr = nx.pagerank(G, alpha=alpha)
+    print(pr)
+
 
 def add_to_papers(pagerank, papers):
     for i in range(len(papers)):
