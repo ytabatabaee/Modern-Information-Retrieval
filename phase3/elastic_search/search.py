@@ -35,16 +35,19 @@ def search_query(es_address, title, abstract, date, title_weight=1, abstract_wei
                     "boost": 10000000,
                 }
             }})
-    papers = es.search(
-        index = 'paper-index',
-        body = {
-            "query": {
-                "bool": {
-                    "should": query_constraits
+    try:
+        papers = es.search(
+            index = 'paper-index',
+            body = {
+                "query": {
+                    "bool": {
+                        "should": query_constraits
+                    }
                 }
-            }
-        },
-        size = num_query)['hits']['hits']
+            },
+            size = num_query)['hits']['hits']
+    except:
+        print("Search Failed!")
 
     print("-------------------------------------------")
     print("Search results for query:")
@@ -56,10 +59,10 @@ def search_query(es_address, title, abstract, date, title_weight=1, abstract_wei
 
     for i in range(len(papers)):
         paper = papers[i]['_source']['paper']
-        print("Paper ", str(i + 1), "with score", papers[i]["_score"])
-        print("* Title: ", paper['title'])
-        print("* Abstract: ", paper['abstract'])
-        print("* Authors:", paper['authors'])
+        print("Paper ", str(i + 1), "with score", papers[i]["_score"] + "\n")
+        print("* Title: ", paper['title'] + "\n")
+        print("* Abstract: ", paper['abstract'] + "\n")
+        print("* Authors:", paper['authors'] + "\n")
         print("* Date: ", paper['date'])
         print("-------------------------------------------")
 

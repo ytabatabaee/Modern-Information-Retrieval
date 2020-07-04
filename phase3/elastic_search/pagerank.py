@@ -2,7 +2,9 @@ from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 import numpy as np
 from elastic_search.indexing import update_index
-import networkx as nx
+import heapq
+from prettytable import PrettyTable
+
 
 max_ref = 10
 num_iter = 100
@@ -14,17 +16,20 @@ def page_rank(es_address, alpha):
     p = (1 - alpha) * prob_matrix + alpha * v
     for i in range(num_iter):
         v = np.matmul(v, p)
-    print('pagerank = ', v)
+    print('pagerank = ', v[0])
     papers = add_to_papers(v, papers)
     update_index(papers, es_address)
     print('Pagerank added to index successfully!')
-    page_rank_validate(prob_matrix, alpha)
+    print("-------------------------------------------")
+    print("10 Top papers with hightest pagerank")
+    x = PrettyTable()
+    x._max_width = {"Paper Title" : 80}
+    x.field_names = ["Paper Title", "Page Rank"]
+    best_papers = heapq.nlargest(10, zip(v[0], [p['title'] for p in papers]))
+    for (pr, title) in best_papers:
+        x.add_row([title, pr])
+    print(x)
     return v
-
-def page_rank_validate(adj_matrix, alpha):
-    G = nx.Graph(adj_matrix)
-    pr = nx.pagerank(G, alpha=alpha)
-    print(pr)
 
 
 def add_to_papers(pagerank, papers):
@@ -71,7 +76,3 @@ def build_adjacency_matrix(papers):
         else:
             prob_matrix[i] = 1 / n
     return prob_matrix
-
-
-if __name__ == '__main__':
-    res = page_rank('localhost:9200', 0.1)

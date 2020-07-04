@@ -2,7 +2,8 @@ from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 import numpy as np
 import heapq
-import networkx as nx
+from prettytable import PrettyTable
+
 
 max_ref = 10
 num_iter = 5
@@ -12,18 +13,6 @@ def find_top_authors(es_address, author_num):
     papers = retrieve_papers(es_address)
     authors, adj_matrix = build_adjacency_matrix(papers)
     hits(adj_matrix, author_num, authors)
-    hits_validate(adj_matrix, author_num, authors)
-
-
-
-def hits_validate(adj_matrix, author_num, authors):
-    G = nx.Graph(adj_matrix)
-    h, a = nx.hits(G)
-    best_authors = heapq.nlargest(author_num, zip(a, authors))
-    print(best_authors)
-    for (score, a) in best_authors:
-        print(a, score)
-
 
 
 def hits(adj_matrix, author_num, authors):
@@ -36,9 +25,12 @@ def hits(adj_matrix, author_num, authors):
         h = h / np.linalg.norm(h)
         a = a / np.linalg.norm(a)
     best_authors = heapq.nlargest(author_num, zip(a, authors))
-    print(best_authors)
+    print("-------------------------------------------")
+    x = PrettyTable()
+    x.field_names = ["Author Name", "Authority Score"]
     for (score, a) in best_authors:
-        print(a, score)
+        x.add_row([a, score])
+    print(x)
 
 
 def retrieve_papers(es_address):
@@ -84,8 +76,3 @@ def build_adjacency_matrix(papers):
             for b in authors_d:
                 adj_matrix[authors.index(a)][authors.index(b)] = 1
     return authors, adj_matrix
-
-
-
-if __name__ == '__main__':
-    res = find_top_authors('localhost:9200', 10)
