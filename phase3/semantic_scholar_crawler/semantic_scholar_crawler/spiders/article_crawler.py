@@ -36,6 +36,6 @@ class ArticleCrawlerSpider(scrapy.Spider):
         authors = response.xpath("//meta[@name='citation_author']/@content").getall()
         date = response.xpath("//meta[@name='citation_publication_date']/@content").get()
         abstract = response.xpath("//meta[@name='description']/@content").get()
-        references = response.xpath("//div[@class='citation-list__citations']//div/div/h2/a/@href").getall()
+        references = response.xpath("//div[@class='card references']//div/div/h2/a/@href").getall()
         references = list(set([self.allowed_domains[0][:-1] + ref for ref in references]))
         return {'id': id, 'title': title, 'authors': authors, 'date': date, 'abstract': abstract, 'references': references}
