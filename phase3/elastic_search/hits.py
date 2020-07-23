@@ -21,7 +21,7 @@ def hits(adj_matrix, author_num, authors):
     a = np.ones(n) / n
     for iter in range(num_iter):
         a = np.dot(adj_matrix.T, h)
-        h = np.dot(adj_matrix.T, a)
+        h = np.dot(adj_matrix, a)
         h = h / np.linalg.norm(h)
         a = a / np.linalg.norm(a)
     best_authors = heapq.nlargest(author_num, zip(a, authors))
